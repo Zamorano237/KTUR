@@ -691,7 +691,7 @@ span {
 /* --------- Testimonial css ---------- */
 
 .testimonial-section {
-    padding: 100px 0;
+    padding: 10px 0;
     background-color: #024e80;
 }
 
@@ -746,7 +746,7 @@ span {
 
 .testimonial-section .single-testimonial {
     position: relative;
-    padding: 45px 50px;
+    padding: 45px 10px;
     background-color: #fff;
     border-radius: 10px;
     z-index: 9;
@@ -796,7 +796,7 @@ span {
     position: absolute;
     top: 50px;
     right: 50px;
-    font-size: 80px;
+    font-size: 20px;
     line-height: 1;
     color: rgba(2, 78, 128, .5);
 }
